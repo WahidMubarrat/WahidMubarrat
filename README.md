@@ -37,7 +37,8 @@
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,oracle,neo4j" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,neo4j" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -61,7 +62,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahidMubarrat&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WahidMubarrat&show_icons=true&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahidMubarrat&layout=compact&hide_border=true" height="165" />
 </p>
 
