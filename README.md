@@ -59,13 +59,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahidMubarrat&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahidMubarrat&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">📫 Reach me: <b>wahidazhar@iut-dhaka.edu</b></p>
