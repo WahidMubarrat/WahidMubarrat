@@ -70,7 +70,8 @@
 
 ---
 ### 🧪 Also Building
-- **[EmerCare](https://github.com/WahidMubarrat/EmerCare)** — Personal project exploring geospatial emergency service lookup (React, Node.js, MongoDB, GPS API) · [Live Demo]emer-carefrontend.vercel.app
+
+- **[EmerCare](https://emer-carefrontend.vercel.app/)** — A personal project exploring real-time hospital availability, blood donor lookup, and emergency service coordination using geospatial queries and GPS. Built with React, Node.js, and MongoDB. [Live Demo](https://emer-carefrontend.vercel.app/) · [GitHub](https://github.com/WahidMubarrat/EmerCare)
 ### 📊 GitHub Stats
 
 <p align="center">
