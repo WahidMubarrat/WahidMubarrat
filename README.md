@@ -69,7 +69,8 @@
 | **[Token-Table](https://github.com/WahidMubarrat/SPL--1)** | University meal token system with smart-wallet logic | Java, OOP |
 
 ---
-
+### 🧪 Also Building
+- **[EmerCare](https://github.com/WahidMubarrat/EmerCare)** — Personal project exploring geospatial emergency service lookup (React, Node.js, MongoDB, GPS API) · [Live Demo]emer-carefrontend.vercel.app
 ### 📊 GitHub Stats
 
 <p align="center">
