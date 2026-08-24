@@ -37,6 +37,9 @@
 **Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat&logo=spring&logoColor=white" />
 </p>
 
 **Databases**
@@ -72,7 +75,7 @@
 
 ### 🧪 Also Built
 
-- **[EmerCare](https://emer-carefrontend.vercel.app/)** — Personal project exploring real-time hospital availability, blood donor lookup, and emergency coordination using geospatial queries and GPS. [GitHub](emer-carefrontend.vercel.app)
+- **[EmerCare](https://github.com/WahidMubarrat/EmerCare)** — Personal project for real-time hospital availability, blood donor lookup, and emergency coordination using MongoDB geospatial queries and GPS. [🔴 Live Demo](https://emer-carefrontend.vercel.app/)
 - **[Token-Table](https://github.com/WahidMubarrat/SPL--1)** — University meal token system with smart-wallet logic, built on core Java and OOP fundamentals.
 
 ---
