@@ -16,7 +16,7 @@
 
 ### 🎓 About Me
 - Software Engineering student at **Islamic University of Technology (IUT)**, expected graduation **2027**
-- Building full-stack web apps — MERN stack, Next.js, FastAPI
+- Building full-stack web apps — MERN stack, Next.js, FastAPI, Spring Boot
 - Exploring **AI-integrated applications** (Gemini API, RAG, agentic workflows)
 - Hackathon participant — CodeSprint, bKash SUST CSE Carnival
 
@@ -36,7 +36,7 @@
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
 </p>
 
 **Databases**
@@ -63,15 +63,20 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| **[TickBook](https://github.com/dr-lepic/tickbook)** | Microservices event booking platform — built the orchestrating Booking Service with Saga-pattern rollback | Spring Boot, RabbitMQ, Eureka |
 | **[LeaveTracker](https://github.com/WahidMubarrat/LeaveTracker)** | Role-based leave management with 3-tier approval, PDF parsing, and email automation | MERN, Nodemailer |
-| **[CalorieCraft](https://github.com/mustain98/calorie-craft)** | Full-stack meal planning platform with nutrition tracking | MERN, JWT, Cloudinary |
+| **[UniCare](https://github.com/dr-lepic/unicare)** | University medical center platform — appointments, e-prescriptions, OTP dispensing, reimbursement claims | MERN, JWT |
 | **[Gym Management System](https://github.com/WahidMubarrat/GYM-MANAGEMENT-SYSTEM)** | Desktop gym app with PL/SQL-driven backend | Java Swing, Oracle |
-| **[Token-Table](https://github.com/WahidMubarrat/SPL--1)** | University meal token system with smart-wallet logic | Java, OOP |
 
 ---
+
 ### 🧪 Also Building
 
-- **[EmerCare](https://emer-carefrontend.vercel.app/)** — A personal project exploring real-time hospital availability, blood donor lookup, and emergency service coordination using geospatial queries and GPS. Built with React, Node.js, and MongoDB. [Live Demo](https://emer-carefrontend.vercel.app/) · [GitHub](https://github.com/WahidMubarrat/EmerCare)
+- **[EmerCare](https://emer-carefrontend.vercel.app/)** — Personal project exploring real-time hospital availability, blood donor lookup, and emergency coordination using geospatial queries and GPS. [GitHub](https://github.com/WahidMubarrat/EmerCare)
+- **[Token-Table](https://github.com/WahidMubarrat/SPL--1)** — University meal token system with smart-wallet logic, built on core Java and OOP fundamentals.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
