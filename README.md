@@ -70,9 +70,9 @@
 
 ---
 
-### 🧪 Also Building
+### 🧪 Also Built
 
-- **[EmerCare](https://emer-carefrontend.vercel.app/)** — Personal project exploring real-time hospital availability, blood donor lookup, and emergency coordination using geospatial queries and GPS. [GitHub](https://github.com/WahidMubarrat/EmerCare)
+- **[EmerCare](https://emer-carefrontend.vercel.app/)** — Personal project exploring real-time hospital availability, blood donor lookup, and emergency coordination using geospatial queries and GPS. [GitHub](emer-carefrontend.vercel.app)
 - **[Token-Table](https://github.com/WahidMubarrat/SPL--1)** — University meal token system with smart-wallet logic, built on core Java and OOP fundamentals.
 
 ---
