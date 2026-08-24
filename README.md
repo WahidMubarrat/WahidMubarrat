@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WahidMubarrat&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=WahidMubarrat&label=Profile%20Views&color=2E86DE&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/wahid-mubarrat-25477b1b2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-2E86DE?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:wahidazhar@iut-dhaka.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-2E86DE?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -37,22 +37,22 @@
 **Backend**
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" />
-  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-2E86DE?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-2E86DE?style=flat&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-2E86DE?style=flat&logo=spring&logoColor=white" />
 </p>
 
 **Databases**
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,neo4j" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-2E86DE?style=flat&logo=oracle&logoColor=white" />
 </p>
 
 **Cloud & Deployment**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-2E86DE?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-2E86DE?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-2E86DE?style=flat&logo=render&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -83,18 +83,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahidMubarrat&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahidMubarrat&layout=compact&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WahidMubarrat&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2E86DE&icon_color=2E86DE&text_color=333333" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahidMubarrat&layout=compact&hide_border=true&bg_color=00000000&title_color=2E86DE&text_color=333333" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahidMubarrat&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=WahidMubarrat&hide_border=true&background=00000000&ring=2E86DE&fire=2E86DE&currStreakLabel=2E86DE" height="165" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahidMubarrat&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahidMubarrat&hide_border=true&area=true&bg_color=ffffff&color=2E86DE&line=2E86DE&point=1B5FA8" />
 </p>
 
 ---
