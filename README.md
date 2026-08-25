@@ -1,15 +1,14 @@
-<h1 align="center">Wahid Mubarrat</h1>
+<h1 align="center">Hi there, I'm Wahid 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Full-Stack Developer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+MERN+Developer;Always+Building+Something" />
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WahidMubarrat&label=Profile%20Views&color=2E86DE&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/wahid-mubarrat-25477b1b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:wahidazhar@iut-dhaka.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-
----
 
 ### 🔗 About Me
 
@@ -48,10 +47,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./generated/overview.svg" height="165" />
-  <img src="./generated/languages.svg" height="165" />
+  <img src="https://ghstats.dev/api/card?username=WahidMubarrat&theme=default" height="165" />
 </p>
 
----
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=WahidMubarrat&days=30&width=600" />
+</p>
 
 <p align="center"><i>Open to internships, collaborations, and open-source contributions.</i></p>
