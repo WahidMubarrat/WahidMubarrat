@@ -31,13 +31,6 @@
 | **Cloud & Deployment** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **[TickBook](https://github.com/dr-lepic/tickbook)** | Microservices event booking platform — built the orchestrating Booking Service with Saga-pattern rollback | Spring Boot, RabbitMQ, Eureka |
-| **[LeaveTracker](https://github.com/WahidMubarrat/LeaveTracker)** | Role-based leave management with 3-tier approval, PDF parsing, and email automation | MERN, Nodemailer |
-| **[UniCare](https://github.com/dr-lepic/unicare)** | University medical center platform — appointments, e-prescriptions, OTP dispensing, reimbursement claims | MERN, JWT |
 | **### 🚀 Featured Projects
 
 | Project | Description | Tech |
@@ -46,7 +39,7 @@
 | **[LeaveTracker](https://github.com/WahidMubarrat/LeaveTracker)** | Role-based leave management with 3-tier approval, PDF parsing, and email automation | MERN, Nodemailer |
 | **[UniCare](https://github.com/dr-lepic/unicare)** | University medical center platform — appointments, e-prescriptions, OTP dispensing, reimbursement claims | MERN, JWT |
 | **[Gym Management System](https://github.com/WahidMubarrat/GYM-MANAGEMENT-SYSTEM)** | Desktop gym app with PL/SQL-driven backend | Java Swing, Oracle |
-| **[EmerCare](https://github.com/WahidMubarrat/EmerCare) ([Live Demo](https://emer-carefrontend.vercel.app/))** | Public weapp for finding hospital,blood donor& ambulance | MERN,RAG,AI Assistant |
+| **[EmerCare](https://github.com/WahidMubarrat/EmerCare) ([Live Demo](https://emer-carefrontend.vercel.app/))** | Public webapp for finding hospital,blood donor& ambulance | MERN,RAG,AI Assistant |
 
 
 
