@@ -38,9 +38,19 @@
 | **[TickBook](https://github.com/dr-lepic/tickbook)** | Microservices event booking platform — built the orchestrating Booking Service with Saga-pattern rollback | Spring Boot, RabbitMQ, Eureka |
 | **[LeaveTracker](https://github.com/WahidMubarrat/LeaveTracker)** | Role-based leave management with 3-tier approval, PDF parsing, and email automation | MERN, Nodemailer |
 | **[UniCare](https://github.com/dr-lepic/unicare)** | University medical center platform — appointments, e-prescriptions, OTP dispensing, reimbursement claims | MERN, JWT |
-| **[Gym Management System](https://github.com/WahidMubarrat/GYM-MANAGEMENT-SYSTEM)** | Desktop gym app with PL/SQL-driven backend | Java Swing, Oracle |
+| **### 🚀 Featured Projects
 
-**Also built:** [EmerCare](https://github.com/WahidMubarrat/EmerCare) ([Live Demo](https://emer-carefrontend.vercel.app/)) · [Token-Table](https://github.com/WahidMubarrat/SPL--1)
+| Project | Description | Tech |
+|---|---|---|
+| **[TickBook](https://github.com/dr-lepic/tickbook)** | Microservices event booking platform — built the orchestrating Booking Service with Saga-pattern rollback | Spring Boot, RabbitMQ, Eureka |
+| **[LeaveTracker](https://github.com/WahidMubarrat/LeaveTracker)** | Role-based leave management with 3-tier approval, PDF parsing, and email automation | MERN, Nodemailer |
+| **[UniCare](https://github.com/dr-lepic/unicare)** | University medical center platform — appointments, e-prescriptions, OTP dispensing, reimbursement claims | MERN, JWT |
+| **[Gym Management System](https://github.com/WahidMubarrat/GYM-MANAGEMENT-SYSTEM)** | Desktop gym app with PL/SQL-driven backend | Java Swing, Oracle |
+| **[EmerCare](https://github.com/WahidMubarrat/EmerCare) ([Live Demo](https://emer-carefrontend.vercel.app/))** | Public weapp for finding hospital,blood donor& ambulance | MERN,RAG,AI Assistant |
+
+
+
+**Also built:**  · [Token-Table](https://github.com/WahidMubarrat/SPL--1)
 
 ---
 
